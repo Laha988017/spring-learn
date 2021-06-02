@@ -1,3 +1,3 @@
 # spring-learn
 
-The project illustrates JDBC implementation with Spring JDBC template 
+The demo project that illustrates JDBC implementation with Spring JDBC template 
